@@ -5,3 +5,5 @@
 /.vs/Microservices/v16
 /.vs/ProjectSettings.json
 /.vs
+/src/Services/Catalog/Catalog.API/bin/Debug/net5.0
+/src/Services/Catalog/Catalog.API/obj
